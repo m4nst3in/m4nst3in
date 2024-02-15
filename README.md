@@ -1,8 +1,6 @@
 <h1 align="center">Opa, eu sou o M4nsT3in <3</h1>
 <h3 align="center">Sou um desenvolvedor aprendiz, que ama back-end.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4nst3in&label=Profile%20views&color=0e75b6&style=flat" alt="m4nst3in" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vinii.b.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinii.b.g" height="30" width="40" /></a>
