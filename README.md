@@ -1,5 +1,5 @@
 <h1 align="center">Oopaa, i'm M4nsT3in <3</h1>
-<h3 align="center">I'm a passionate TI fan, started coding on 2023. Welcome!</h3>
+<h3 align="center">I'm a passionate IT fan, started coding on 2023. Welcome!</h3>
 
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/pt-BR/)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
