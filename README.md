@@ -1,17 +1,19 @@
-<h1 align="center">Oopaa, i'm M4nsT3in <3</h1>
-<h3 align="center">I'm a passionate IT fan, started coding on 2023.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00b71f&reversal=false"/>
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/cpp)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1DF743&center=true&vCenter=true&width=1000&lines=Manstein+-+C%23+Developer;Hi!+I'm+Manstein;also+known+as+Vinicius;and+i'm+a+C%23+%26+.NET+developer.;I+work+at+both+front-end+and+back-end;as+a+full-stack.)](https://git.io/typing-svg)
 
-[![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
-[![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt_br/)
+ <div align="center">  
+  
+ ![visitor badge](https://komarev.com/ghpvc/?username=m4nst3in&color=00b71f)
+  
+ </div>
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m4nst3in&bg_color=0d111700&color=00b71f&line=00b71f&point=D80B4B&area=true&hide_border=true)](https://github.com/m4nst3in)
+  
+<div align="center">
 
-[![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://www.jetbrains.com/pt-br/rider/)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,ts,html,css,react,vite,vue,tailwind,mysql,mongodb,git,windows,linux)](https://skillicons.dev)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/418824536570593280)](https://discord.com/users/418824536570593280)
+</div>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b71f&height=120&section=footer"/>
